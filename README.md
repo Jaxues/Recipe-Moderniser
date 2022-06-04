@@ -1,2 +1,2 @@
 # Recipe-Moderniser
-Begining python project to convert measurements into eithier grams or millilitres
+First Python project. Converts nonstandard measurements into either grams or millilitres.
